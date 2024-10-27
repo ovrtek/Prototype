@@ -1,2 +1,2 @@
-# open-combat
+# Open Combat
 First game coded in C++
